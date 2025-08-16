@@ -5,11 +5,12 @@
 // @author       Matthew Parker
 // @description  Right-click on a scrollbar: if you're at the top, jump to the bottom; if you're at the bottom, jump to the top. Works for the page and nested scrollable elements.
 // @match        *://*/*
-// @icon         https://raw.githubusercontent.com/SysAdminDoc/ScrollJumper/refs/heads/main/assets/icons/favicon.ico
+// @icon         https://raw.githubusercontent.com/SysAdminDoc/ScrollJumper/refs/heads/main/assets/ScrollJumperIcon.png
 // @grant        none
 // @license      GPL-3.0
 // @run-at       document-end
-// @namespace    https://github.com/SysAdminDoc/ScrollJumper
+// @updateURL    https://github.com/SysAdminDoc/ScrollJumper/raw/refs/heads/main/src/ScrollJumper.user.js
+// @downloadURL  https://github.com/SysAdminDoc/ScrollJumper/raw/refs/heads/main/src/ScrollJumper.user.js
 // ==/UserScript==
 
 (function () {
